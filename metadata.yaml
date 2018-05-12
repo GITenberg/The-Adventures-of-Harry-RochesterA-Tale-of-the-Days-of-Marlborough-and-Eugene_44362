@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Herbert_Strang
     - http://www.gutenberg.org/ebooks/author/39124
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44362#The-Adventures-of-Harry-RochesterA-Tale-of-the-Days-of-Marlborough-and-Eugene
 gutenberg_issued: '2013-12-05'
 gutenberg_type: Text
 identifiers:
